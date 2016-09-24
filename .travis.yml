@@ -1,10 +1,10 @@
 language: ruby
 rvm:
-- 2.1.2
+- 2.2.5
 deploy:
   provider: heroku
   api_key:
-    secure: T/rkhibwg2EBQhDVff/E04HWIJVivfR6vNq7aGQUq2cMizDQgi4657ykyQxljHmyrdRFdY7DuPc76qj4Zo+wTxH9OiZPrDHaxacxn8Kd6xPH4asZDsL9oiFf8dEVWS2XOIPwDHLykHr4LIcxoiepqlpGPQ1UREi/DynUJ6umgaY=
-  app: mighty-river-7140
+    secure: gSQ4R4aq6K+Jf4B4jTogf02XtZiaQra0xFfF4jOj6oL9i+6SQjvGK1kMxate/9XNGo8Nm7J6+2Coai5/fLs9YCmEBgG3l6e/qW5vUduVDE0Tlk17n6Fn1uf67OOA+xCHoXEdM3zCYgI/8oN/5MLhlCX2DiCPHerRsZRMNvrhW1QNvoo/iVvGThNBMY00y+keJ9qG9a8xEQn36l3s/FgayuOPEFhT310uZ3pPRmH79E4Z4oVFkohtYi9rHVXYUI37PkyGcD2zeRfzYd3RJgsytZ8s8NuiX/U+qPDXo28I9KoTOxy0ZxlCaGJOKQYwdJ1GubA+sK6cBOt4//3rEYQ65k2367wbEg1C4sGfjj6Kpo8uBRTAuEM9eBktU5EvZCSLhD7/ee7zx3Y9oYGFf+26u1Jxn+/Lbtych7vzYt2/ls9GuVqSz1pybFY15HX/CaN97q5GNLfRCp8uyeS+vyGLQviMsx4755KQZg1vihC2P+8EbF3KkTko2DZ2wRyEI09jBVjjGfYTKQBGXCRmAcS5T7EaWN82ozq3RLnmbru+YrqStkKkJMdoolMUe5ZuYFX/VaSLp9EhxKYEKER14Jt73XFqoACO1U6EWYxhZ8ueQBOPPXbnFp9YUz+GxFu2cxiL67Es7o3d5HKYCJZ+HsY9/qyp16bgsmXsrrVUHgVb9eM=
+  app: quiet-everglades-14267
   on:
-    repo: ryuichiueda/rakuten_enpit_example
+    repo: tantan5/rakuten_enpit_example
